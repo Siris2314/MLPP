@@ -1,6 +1,6 @@
 # ML++
 
-ML++ is a C++ Machine Learning Library built from the ground up using only C/C++ standard libraries. ML++ is made not only to be used to also educate on implmenting Machine Learning algorithms from scatch in C++.
+ML++ is a C++ Machine Learning Library built from the ground up using only C/C++ standard libraries. ML++ is made not only to be used to also educate on implementing Machine Learning algorithms from scratch in C++.
 
 
 ## Setup
