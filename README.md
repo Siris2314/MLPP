@@ -23,6 +23,20 @@ The structure of the library is as follows:
 │   │   ├── src
 │   │   │   ├── kmeans.cc
 |   |   ├── Makefile
+|   ├── CNN
+│   │   ├── include
+│   │   │   ├── Config.hpp
+│   │   │   ├── convolution.hpp
+│   │   │   ├── Layer 
+│   │   │   │   ├── Conv.hpp
+│   │   │   │   ├── FullyConnected.hpp
+│   │   │   │   ├── Pooling.hpp
+│   │   │   ├── Activation
+│   │   │   │   ├── ReLU.hpp
+│   │   │   │   ├── Sigmoid.hpp
+│   │   │   │   ├── Softmax.hpp
+│   │   │   |   ├── Tanh.hpp
+|   |   |   |   ├── Identity.hpp
 │   ├── KNN
 │   │   ├── include
 │   │   │   ├── knn.hpp
