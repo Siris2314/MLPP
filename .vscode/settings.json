@@ -6,6 +6,8 @@
         "list": "cpp",
         "string": "cpp",
         "vector": "cpp",
-        "random": "cpp"
+        "random": "cpp",
+        "hash_map": "cpp",
+        "*.tcc": "cpp"
     }
 }

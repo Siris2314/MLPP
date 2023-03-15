@@ -121,7 +121,6 @@ inline void convolve_valid(
 
 
 
-// The moving_product() function for the "full" rule
 inline void moving_product(
     const int padding, const int step,
     const Eigen::Matrix<Scalar, Eigen::Dynamic, Eigen::Dynamic, Eigen::RowMajor>& mat1,
