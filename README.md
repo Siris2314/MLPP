@@ -76,6 +76,7 @@ Currently the following models are available:
 * K-Means Clustering
 * K-Nearest Neighbors
 * Neural Network (Feed Forward)
+* Convolutional Neural Networks
 
 I will add more models in the future.
 
