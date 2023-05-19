@@ -2,3 +2,6 @@
 ./dataset
 ./library
 /opencv2.framework
+model.pt
+/opencv
+/opencvextras
